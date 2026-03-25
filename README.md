@@ -90,32 +90,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
