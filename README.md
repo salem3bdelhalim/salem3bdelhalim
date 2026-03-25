@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -89,7 +91,24 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?unique=false" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
@@ -102,11 +121,6 @@
 
 <div align="center">
   <img height="200" src=""  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
