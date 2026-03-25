@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hi, I'm Salem Abdelhalim<br><br>Machine Learning Engineer<br>🤖 | Software Engineer  💻</h1>
+<h1 align="left">👋 Hi, I'm Salem Abdelhalim</h1>
 
 ###
 
-<p align="left">Hi, I'm Salem Abdelhalim</p>
+<p align="left">🎓 Senior Engineering Student<br>🤖 Machine Learning Engineer <br>💻 Software Engineer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Machine learning Enineer</p>
+<p align="left">I’m passionate about building intelligent systems and solving real-world problems using Machine Learning and Software Engineering.<br>🧠 Interested in Computer Vision, NLP, and AI Systems<br>🔥 Building impactful real-world projects</p>
 
 ###
 
