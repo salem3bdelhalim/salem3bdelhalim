@@ -34,23 +34,6 @@ I’m passionate about building intelligent systems and solving real-world probl
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📂 Featured Open Source Projects
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salem3bdelhalim&repo=Inception-Spatial-Attention&theme=tokyonight" />
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salem3bdelhalim&repo=Transformer-From-Scratch&theme=tokyonight" />
-</p>
-
----
-
-### 📊 Project Languages Breakdown
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salem3bdelhalim&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/salem-abd-elhalim-3583b8336/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
