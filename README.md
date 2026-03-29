@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSfrE/giphy.gif" width="30px"> Hi, I'm Salem Abdelhalim
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Senior%20Engineering%20Student-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-green?style=flat-square" />
   <img src="https://img.shields.io/badge/-Software%20Engineer-orange?style=flat-square" />
 </p>
@@ -9,8 +8,7 @@
 ### 👨‍💻 About Me
 I’m passionate about building intelligent systems and solving real-world problems using **Machine Learning** and **Software Engineering**. 
 
-* 🧠 **Interests:** Computer Vision (CNNs, Transformers), NLP, and Scalable AI Systems.
-* 🔥 **Current Focus:** Building impactful real-world projects like the **Blind Stick Vision Module**.
+* 🧠 **Interests:** Computer Vision , NLP, and DL.
 * 🎓 **Background:** Final year Engineering student specializing in AI integration.
 
 ---
@@ -34,14 +32,6 @@ I’m passionate about building intelligent systems and solving real-world probl
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salemabdelhalim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemabdelhalim1&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
