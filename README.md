@@ -1,53 +1,51 @@
-# <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSfrE/giphy.gif" width="30px"> Salem Abdelhalim
-**AI & Deep Learning Engineer**
+# 👟 Footwear Classifier with Factorized Inception & Spatial Attention
 
-<p align="left">
-<a href="https://www.linkedin.com/in/salem-abd-elhalim-3583b8336/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:salemabdelhalim030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-Supported-red?logo=keras)](https://keras.io/)
+[![Accuracy](https://img.shields.io/badge/Accuracy-96.8%25-brightgreen)](https://github.com/salemabdelhalim1)
 
----
-
-### 🧠 Expertise & Technical Rigor
-
-* 🚀 **Deep Learning Foundations:** Specializing in implementing SOTA architectures (Transformers, Inception, SE-Nets) **from scratch** with a focus on Linear Algebra and Information Theory.
-* 📉 **Architectural Optimization:** Maximizing efficiency through **Factorization**, **Attention Mechanisms**, and FLOPs reduction for high-performance inference.
-* 🏗️ **Scalable Production:** Building resilient ML pipelines using **Docker**, **Kubernetes**, and optimized **C++** kernels.
+## 📝 Project Overview
+This repository features a custom-built Deep Learning architecture specifically designed for high-precision classification of footwear (Boots, Sandals, Shoes). The model stands out by combining **Factorized Inception Modules** for efficient feature extraction and a **Spatial Attention Mechanism** to enhance the model's focus on relevant object parts.
 
 ---
 
-### 🛠️ Strategic Tech Stack
+## 🚀 Key Technical Features
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 1. Factorized Inception Modules
+Instead of traditional $3 \times 3$ or $5 \times 5$ convolutions, this model decomposes them into:
+* **$1 \times 3$ and $3 \times 1$ layers**: This drastically reduces the number of parameters and computational cost while increasing the non-linearity of the network, allowing it to learn more complex features.
 
----
+### 2. Spatial Attention Mechanism
+The model doesn't just look at the whole image equally. It uses a **Spatial Attention** block:
+* **Process**: It applies both `Global Average Pooling` and `Global Max Pooling` across the channel dimension to identify "where" the most important information is located.
+* **Benefit**: It suppresses noise from the background and highlights the footwear's structural features.
 
-### 📊 GitHub Impact & Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salemabdelhalim1&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemabdelhalim1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=salemabdelhalim1&theme=tokyonight&hide_border=true" />
-</p>
+### 3. Optimized Architecture
+* **Input Shape:** $120 \times 120 \times 3$
+* **Regularization:** Includes `BatchNormalization` and `Dropout (0.2)` to ensure stable training and prevent overfitting.
+* **Efficient Branches:** Merges features from different scales using 1x1, 3x3 (factorized), and 5x5 (factorized) convolutions.
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=salemabdelhalim1&theme=tokyonight&area=true&hide_border=true" />
-</p>
+## 📊 Performance Results
+
+### 📈 Training Progress
+The model shows excellent convergence. After initial fluctuations, the **Validation Loss** stabilizes closely with the **Training Loss**, indicating a well-generalized model.
+
+| Metric | Result |
+| :--- | :--- |
+| **Final Validation Accuracy** | **~96.8%** |
+| **Classes** | Boot, Sandal, Shoe |
+
+### 🧩 Confusion Matrix Analysis
+The confusion matrix reveals high precision across all categories:
+* **Boots:** Highest accuracy with minimal misclassification.
+* **Sandals & Shoes:** Slight, logical confusion due to similar silhouettes in specific designs.
+
+---
+
+## 🛠 Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/salemabdelhalim1/Inception-Spatial-Attention.git](https://github.com/salemabdelhalim1/Inception-Spatial-Attention.git)
