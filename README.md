@@ -39,8 +39,16 @@ I’m passionate about building intelligent systems and solving real-world probl
 ### 📂 Featured Open Source Projects
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salemabdelhalim1&repo=Inception-Spatial-Attention&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salemabdelhalim1&repo=Transformer-From-Scratch&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salem3bdelhalim&repo=Inception-Spatial-Attention&theme=tokyonight" />
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=salem3bdelhalim&repo=Transformer-From-Scratch&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Project Languages Breakdown
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salem3bdelhalim&layout=compact&theme=tokyonight" />
 </p>
 
 ### 📫 Connect with me
