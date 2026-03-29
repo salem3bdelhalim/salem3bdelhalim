@@ -1,51 +1,52 @@
-# 👟 Footwear Classifier with Factorized Inception & Spatial Attention
+# <img src="https://media.giphy.com/media/hvRJCLzz8CXTfMSfrE/giphy.gif" width="30px"> Hi, I'm Salem Abdelhalim
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-Supported-red?logo=keras)](https://keras.io/)
-[![Accuracy](https://img.shields.io/badge/Accuracy-96.8%25-brightgreen)](https://github.com/salemabdelhalim1)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Senior%20Engineering%20Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Software%20Engineer-orange?style=flat-square" />
+</p>
 
-## 📝 Project Overview
-This repository features a custom-built Deep Learning architecture specifically designed for high-precision classification of footwear (Boots, Sandals, Shoes). The model stands out by combining **Factorized Inception Modules** for efficient feature extraction and a **Spatial Attention Mechanism** to enhance the model's focus on relevant object parts.
+### 👨‍💻 About Me
+I’m passionate about building intelligent systems and solving real-world problems using **Machine Learning** and **Software Engineering**. 
 
----
-
-## 🚀 Key Technical Features
-
-### 1. Factorized Inception Modules
-Instead of traditional $3 \times 3$ or $5 \times 5$ convolutions, this model decomposes them into:
-* **$1 \times 3$ and $3 \times 1$ layers**: This drastically reduces the number of parameters and computational cost while increasing the non-linearity of the network, allowing it to learn more complex features.
-
-### 2. Spatial Attention Mechanism
-The model doesn't just look at the whole image equally. It uses a **Spatial Attention** block:
-* **Process**: It applies both `Global Average Pooling` and `Global Max Pooling` across the channel dimension to identify "where" the most important information is located.
-* **Benefit**: It suppresses noise from the background and highlights the footwear's structural features.
-
-### 3. Optimized Architecture
-* **Input Shape:** $120 \times 120 \times 3$
-* **Regularization:** Includes `BatchNormalization` and `Dropout (0.2)` to ensure stable training and prevent overfitting.
-* **Efficient Branches:** Merges features from different scales using 1x1, 3x3 (factorized), and 5x5 (factorized) convolutions.
+* 🧠 **Interests:** Computer Vision (CNNs, Transformers), NLP, and Scalable AI Systems.
+* 🔥 **Current Focus:** Building impactful real-world projects like the **Blind Stick Vision Module**.
+* 🎓 **Background:** Final year Engineering student specializing in AI integration.
 
 ---
 
-## 📊 Performance Results
+### 🛠️ Tech Stack & Tools
 
-### 📈 Training Progress
-The model shows excellent convergence. After initial fluctuations, the **Validation Loss** stabilizes closely with the **Training Loss**, indicating a well-generalized model.
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <br>
 
-| Metric | Result |
-| :--- | :--- |
-| **Final Validation Accuracy** | **~96.8%** |
-| **Classes** | Boot, Sandal, Shoe |
-
-### 🧩 Confusion Matrix Analysis
-The confusion matrix reveals high precision across all categories:
-* **Boots:** Highest accuracy with minimal misclassification.
-* **Sandals & Shoes:** Slight, logical confusion due to similar silhouettes in specific designs.
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🛠 Installation & Usage
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salemabdelhalim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemabdelhalim1&layout=compact&theme=tokyonight"/>
+</p>
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/salemabdelhalim1/Inception-Spatial-Attention.git](https://github.com/salemabdelhalim1/Inception-Spatial-Attention.git)
+---
+
+### 📫 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem abdelhalim" height="30" width="40" /></a>
+</p>
