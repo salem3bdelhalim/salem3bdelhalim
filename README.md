@@ -9,7 +9,7 @@
 I’m passionate about building intelligent systems and solving real-world problems using **Machine Learning** and **Software Engineering**. 
 
 * 🧠 **Interests:** Computer Vision , NLP, and DL.
-* 🎓 **Background:** mathematical rigors . My approach combines a **strong theoretical foundation** in Linear Algebra, Calculus, and Probability with high-level software engineering practices to build scalable, intelligent systems.
+* 🎓 **Background:** mathematical rigors Foundations. My approach combines a **strong theoretical foundation** in Linear Algebra, Calculus, and Probability with high-level software engineering practices to build scalable, intelligent systems.
 
 ---
 
@@ -34,12 +34,7 @@ I’m passionate about building intelligent systems and solving real-world probl
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📫 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/salem-abd-elhalim-3583b8336/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem abdelhalim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salem-abd-elhalim-3583b8336/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
