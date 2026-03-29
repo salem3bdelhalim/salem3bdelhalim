@@ -9,7 +9,7 @@
 I’m passionate about building intelligent systems and solving real-world problems using **Machine Learning** and **Software Engineering**. 
 
 * 🧠 **Interests:** Computer Vision , NLP, and DL.
-* 🎓 **Background:** Final year Engineering student specializing in AI integration.
+* 🎓 **Background:** mathematical rigors . My approach combines a **strong theoretical foundation** in Linear Algebra, Calculus, and Probability with high-level software engineering practices to build scalable, intelligent systems.
 
 ---
 
